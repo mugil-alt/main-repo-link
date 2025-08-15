@@ -1,4 +1,4 @@
-# main-repo-link
+# main-account-link
 
 # LINK:
 https://github.com/Mugil13
